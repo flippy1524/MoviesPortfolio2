@@ -151,8 +151,6 @@ See [Packages/MoviesCore/XCFramework.md](Packages/MoviesCore/XCFramework.md) for
 
 | Document | Description |
 |----------|-------------|
-| [BUILD_ROADMAP.md](BUILD_ROADMAP.md) | Full phased implementation history |
-| [requirements.md](requirements.md) | Original assignment specification |
 | [ONGOING_ISSUES.md](ONGOING_ISSUES.md) | Open bugs and UX issues |
 | [Packages/MoviesCore/XCFramework.md](Packages/MoviesCore/XCFramework.md) | Binary framework distribution |
 
