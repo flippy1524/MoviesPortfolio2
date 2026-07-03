@@ -1,0 +1,44 @@
+disabled_rules:
+  - trailing_whitespace
+
+opt_in_rules:
+  - empty_count
+  - explicit_init
+  - fatal_error_message
+  - force_unwrapping
+  - redundant_nil_coalescing
+
+included:
+  - MoviesPortfolio2
+  - Packages
+
+excluded:
+  - MoviesPortfolio2/MoviesPortfolio2.xcodeproj
+  - MoviesPortfolio2/MoviesPortfolio2UITests
+  - Packages/MoviesCore/Package.swift
+  - .build
+  - Packages/MoviesCore/.build
+  - "**/.build/**"
+  - "**/DerivedSources/**"
+  - "**/*.derived/**"
+
+line_length:
+  warning: 120
+  error: 150
+
+identifier_name:
+  min_length:
+    warning: 2
+  excluded:
+    - id
+    - x
+    - y
+
+type_name:
+  min_length: 3
+
+function_parameter_count:
+  warning: 6
+  error: 8
+
+reporter: xcode

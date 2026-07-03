@@ -1,0 +1,20 @@
+{
+  "cast": [
+    {
+      "id": 819,
+      "name": "Edward Norton",
+      "character": "The Narrator",
+      "profile_path": "/5XBzD5WuTyVQZeS4VI25z2moMeY.jpg",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "id": 7467,
+      "name": "David Fincher",
+      "job": "Director",
+      "department": "Directing",
+      "profile_path": "/tvNPyg8wJW6xsVrSUrmZyKBh51e.jpg"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": 550,
+  "title": "Fight Club",
+  "overview": "A ticking-time-bomb insomniac and a slippery soap salesman.",
+  "poster_path": "/pB8BM7pdDpEwFT5N9vrnGiJ6i0G.jpg",
+  "backdrop_path": "/fCayJrkfRaCRCTh8GqN30f8oyQF.jpg",
+  "vote_average": 8.433,
+  "vote_count": 26280,
+  "release_date": "1999-10-15",
+  "runtime": 139,
+  "tagline": "Mischief. Mayhem. Soap.",
+  "status": "Released",
+  "genres": [
+    { "id": 18, "name": "Drama" }
+  ]
+}

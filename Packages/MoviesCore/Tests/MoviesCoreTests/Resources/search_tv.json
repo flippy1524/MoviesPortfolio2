@@ -1,0 +1,17 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 1396,
+      "name": "Breaking Bad",
+      "overview": "A chemistry teacher turned meth maker.",
+      "poster_path": "/bb.jpg",
+      "backdrop_path": null,
+      "vote_average": 8.9,
+      "vote_count": 12000,
+      "first_air_date": "2008-01-20"
+    }
+  ],
+  "total_pages": 3,
+  "total_results": 50
+}
