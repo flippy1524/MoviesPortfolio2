@@ -72,9 +72,7 @@ MoviesPortfolio2/
 │   ├── Tests/MoviesCoreTests/
 │   ├── Scripts/build-xcframework.sh
 │   └── XCFramework.md
-├── BUILD_ROADMAP.md               # Phased build log
 ├── ONGOING_ISSUES.md              # Known bugs
-└── requirements.md                # Assignment spec
 ```
 
 ## Setup
