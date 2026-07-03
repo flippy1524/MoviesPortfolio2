@@ -1,0 +1,15 @@
+# Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Secrets
+MoviesPortfolio2/Config/Secrets.xcconfig
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/MoviesCore/Artifacts/
+
+# macOS
+.DS_Store
